@@ -12,8 +12,8 @@ A simple AI-powered image cartoonization tool using Stable Diffusion InstructPix
 bash
 Copy
 Edit
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/RubanThinks/RubanThinks-AI-Image-Cartoonizer.git
+cd AI-Image-Cartoonizer
 2️⃣ Install Dependencies
 bash
 Copy
