@@ -1,0 +1,15 @@
+# Ignore the entire local-cartoonizer folder
+local-cartoonizer/
+
+# Allow tracking of model.py
+!model.py
+
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore venv or environment files
+venv/
+env/
+*.log
